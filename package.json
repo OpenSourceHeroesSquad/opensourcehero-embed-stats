@@ -1,0 +1,11 @@
+{
+  "name": "export_svg",
+  "version": "1.0.0",
+  "description": "Return embeddable SVG for Github Readme pages",
+  "main": "index.js",
+  "author": "",
+  "license": "private",
+  "dependencies": {
+    "svg-chartist": "^1.0.1"
+  }
+}
